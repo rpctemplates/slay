@@ -1,3 +1,4 @@
+```
 REM disable windows defender
 GUI r
 DELAY 600
@@ -31,3 +32,4 @@ STRINGLN $$$$$$\ $$$$$$$$\\$$$$$$  |\$$$$$$  |$$  /   \$$ |
 STRINGLN \______|\________|\______/  \______/ \__/     \__|
 STRINGLN                   1LSGW WAS HERE                  
 MOUSESCROLL 25
+```
