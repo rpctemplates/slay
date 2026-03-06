@@ -14,6 +14,7 @@ ENTER
 
 REM download
 
+REM run downloaded
 
 REM notepad
 DELAY 700
